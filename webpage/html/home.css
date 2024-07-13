@@ -1,0 +1,14 @@
+.background-image{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg5VtNOxilma0fnxbVnktInT_zJ-TZLluo5w&s");
+    background-size: cover;
+    height: 100%;
+    border-radius: 20px;
+    padding: 5px;
+}
+.heading-txt{
+  color: aliceblue;
+  text-align: center;
+  padding: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 300%;
+}

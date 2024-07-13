@@ -1,0 +1,35 @@
+.background-c{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI4wo2Qe30iU1ZTfP3aUl7HxaU2cRpjjMESA&s);
+    background-size: cover;
+    height: 120%;
+    border-radius: 20px;
+    padding: 5px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.register-card {
+    background: rgb(53, 53, 53);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.register-card-text{
+    color: rgb(242, 248, 248);
+}
+.login-card input[type="text"], 
+.login-card input[type="password"], 
+.register-card input[type="text"], 
+.register-card input[type="email"], 
+.register-card input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}

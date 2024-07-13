@@ -1,0 +1,41 @@
+.background-color
+{
+background-color: rgb(9, 9, 8);
+background-size: auto;
+border-radius: 20px;
+padding: 10px;
+}
+.container{
+    background-color: rgb(210, 210, 204);
+    border: 20px;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 15px;
+}
+.card1{
+    background-color: azure;
+    padding: 20px;
+    margin: 50px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.car1-heading{
+    font-family: cursive;
+    font-size: 40;
+    padding: 10px;
+}
+.car1-para{
+    font-family: cursive;
+    font-size: 30;
+    padding: 10px;
+}
+.card2{
+    padding: 20px;
+    margin: 50px;
+    border-radius: 10px;
+    /* display: flex;
+    flex-direction: row;
+    justify-content: space-between; */
+}
